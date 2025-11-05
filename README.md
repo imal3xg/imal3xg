@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Alejandro 👋</h1>
+<h1 align="center">👋 Hello, I'm Alejandro Giráldez Guerrero</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Cross-Platform Application Engineer · Open to Remote Roles</b>
+  <b>Full-Stack Developer · Cross-Platform Application Engineer · Open to Remote Work</b>
 </p>
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 ## 🧑‍💻 About Me  
 
-I'm a **Full-Stack Software Developer** recently graduated in **Cross-Platform Application Development**.  
+I'm a passionate **Full-Stack Software Developer** recently graduated in **Cross-Platform Application Development**.  
 I enjoy building **modern, scalable and user-focused applications** — from mobile and web frontends to backend APIs and cloud integrations.  
 
-I'm currently looking for **remote opportunities** or roles based in **Málaga, Spain**, where I can:
+Currently, I'm looking for **remote opportunities** or roles based in **Málaga, Spain**, where I can:
 - Contribute to real-world projects  
-- Learn from experienced teams  
-- Grow professionally in an agile environment  
+- Collaborate with global teams  
+- Continue growing as a developer in an agile environment  
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Tech Stack  
 
 ### 🧠 Languages  
 <p align="left">
@@ -34,59 +34,43 @@ I'm currently looking for **remote opportunities** or roles based in **Málaga, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
 </p>
 
 ### 🎨 Frontend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-</p>
+`Angular` · `Ionic` · `HTML5` · `CSS3 / SCSS` · `XML`
 
 ### ⚙️ Backend & APIs  
-- REST & API integration  
-- Salesforce Apex & CRM development  
-- Basic experience with microservices and clean architecture concepts  
+`REST` · `SOAP` · `API Integration` · `Spring Boot` · `Node.js`
 
 ### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
+`MySQL` · `SQLite` · `Firebase` · `NoSQL`
 
-- Relational: **MySQL**, **SQLite**  
-- NoSQL: **Firebase**  
-
-### 🛠 Tools & Platforms  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="40" height="40"/>
-</p>
+### 🧰 Tools & Platforms  
+`Android Studio` · `Visual Studio Code` · `Git / GitHub` · `Salesforce`  
+`Jira` · `Confluence` · `CI/CD`  
 
 ### 🔄 Methodologies  
-- Agile: **Scrum / Kanban**  
-- Version control with **Git/GitHub**  
-- Focus on **clean, readable code**  
+`Agile (Scrum / Kanban)` · `Clean Code` · `API-led Architecture`
 
 ---
 
-## 🌟 Featured Project  
+## 🚀 Featured Project  
 
 ### 🪩 [PartyNow – TFG](https://github.com/imal3xg/partynow-tfg)
+A **social networking application** developed as my final degree project in Cross-Platform Application Development.  
+Built using **Angular**, **Ionic**, **Firebase**, and **TypeScript**, it connects users through events and shared experiences, demonstrating **full-stack app design** from backend to UI.  
 
-A **social network application** built as my final project for my Cross-Platform Application Development degree.  
+**Key highlights:**
+- Authentication and data persistence with **Firebase**
+- Responsive, dynamic UI built with **Ionic + Angular**
+- Designed for scalability and clean architecture
 
-**Highlights:**
-- Built with **Angular**, **Ionic**, **TypeScript**, and **Firebase**  
-- Focus on real-time interaction and user experience  
-- Demonstrates full-stack skills: frontend, backend integration & data management  
+---
+
+## 🌍 Languages
+- 🇪🇸 **Spanish** – Native  
+- 🇬🇧 **English** – B2 (Upper Intermediate)
 
 ---
 
@@ -94,26 +78,12 @@ A **social network application** built as my final project for my Cross-Platform
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imal3xg&show_icons=true&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imal3xg&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imal3xg&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
-## 🌍 Languages  
-
-- 🇪🇸 **Spanish** – Native  
-- 🇬🇧 **English** – B2 (Upper Intermediate)  
-
----
-
-## 📫 Contact  
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:alexgg888999@gmail.com">
