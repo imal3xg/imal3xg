@@ -74,15 +74,6 @@ Built using **Angular**, **Ionic**, **Firebase**, and **TypeScript**, it connect
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imal3xg&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imal3xg&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
